@@ -6,3 +6,15 @@ padding: 0;
     background-color:lightslategray;
     padding:5px
 }
+.Datos{
+    background-color:gainsboro;
+    padding: 10px;
+    margin: 30px;
+}
+.footer{
+    background-color:lightslategray;
+    padding:5px;
+    color: black;
+    text-align: center;
+  font-weight: bold;
+}
