@@ -30,3 +30,17 @@ padding: 0;
 .left-column, .right-column{
     margin-bottom: 45px;
 }
+.Botón{
+    text-align: center;
+    margin-bottom: 60px;
+}
+.btn-portafolio{
+    background-color: black;
+    border-color: black;
+    border-radius: 6px;
+    color: white;
+    width:15rem;
+    cursor: pointer;
+    text-align: center;
+    font-size:25px;
+}
