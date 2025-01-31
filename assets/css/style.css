@@ -22,11 +22,14 @@ padding: 0;
     color:whitesmoke;
     margin-bottom: 30px;
     margin-top: 30px;
-    justify-content: space-around;
+    padding-left: 2rem;
 }
 .redonda{
     clip-path: circle(50% at 50% 50%);
     max-width: 100%;
+    margin-bottom: 1rem;
+    margin-right: 1rem;
+    padding: 1rem;
 }
 .second-page{
     display: flex;

@@ -20,15 +20,17 @@
     text-align: center;
     margin:0px;
 }
-.container{
-    border-radius: 30px;
-    display: flex;
-    justify-content: space-around;
-    padding-block: 30px;
+.row{
+    padding: 3rem;
 }
 .card{
     margin-bottom: 40px;
     align-items: center;
+    border-color: darkslategray;
+    border-width: 2px;
+}
+.card-body{
+   align-content: end; 
 }
 .card-text{
     text-align: center;
