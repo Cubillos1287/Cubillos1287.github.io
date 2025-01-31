@@ -7,5 +7,5 @@
 - Ejecución de forks y commit a trabajos de manera colaborativa
 
 ### Fork Realizados:
-1. [Fork 1](http:/cubillos1287.github.io/Fork1Daniela.github.io/ "Fork 1")
-2. [Fork 2](http:/cubillos1287.github.io/Fork2Daniela.github.io/ "Fork 2")
+1. [Fork 1](https://github.com/Cubillos1287/Fork1Daniela.github.io/ "Fork 1")
+2. [Fork 2](https://github.com/Cubillos1287/Fork2Daniela.github.io/ "Fork 2")
